@@ -222,7 +222,7 @@
           className:
             "h-[70px] flex items-center justify-center max-[540px]:hidden",
           children: (0, s.jsx)(d.default, {
-            href: "https://mindnetwork.xyz/",
+            href: "https://mindnetwork-five.vercel.app/",
             target: "_blank",
             children: (0, s.jsx)(c.default, {
               src: "/images/logo.png",
